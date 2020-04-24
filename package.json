@@ -9,7 +9,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "tape": "^4.10.1"
+    "tape": "^5.0.0"
   },
   "keywords": [
     "google",
